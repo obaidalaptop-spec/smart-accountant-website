@@ -1,7 +1,7 @@
 'use client';
 
 // ─── Update these before deploying ────────────────────────────────────────────
-const GITHUB_RELEASE_URL = 'https://github.com/obaidalaptop-spec/smart-accountant-releases/releases/latest';
+const GITHUB_RELEASE_URL = 'https://github.com/obaidalaptop-spec/smart-accountant-releases/releases/download/v1.0.0/SmartAccountant-1.0.0-Setup.exe';
 const CONTACT_EMAIL      = 'smartacctant@gmail.com';
 const WHATSAPP_NUMBER    = '972559492403'; // without + sign
 // ──────────────────────────────────────────────────────────────────────────────
