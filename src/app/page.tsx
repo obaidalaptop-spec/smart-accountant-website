@@ -1,9 +1,9 @@
 'use client';
 
 // ─── Update these before deploying ────────────────────────────────────────────
-const GITHUB_RELEASE_URL = 'https://github.com/YOUR_USERNAME/smart-accountant/releases/latest';
-const CONTACT_EMAIL      = 'your@email.com';
-const WHATSAPP_NUMBER    = '972501234567'; // without + sign
+const GITHUB_RELEASE_URL = 'https://github.com/obaidalaptop-spec/smart-accountant-releases/releases/latest';
+const CONTACT_EMAIL      = 'smartacctant@gmail.com';
+const WHATSAPP_NUMBER    = '972559492403'; // without + sign
 // ──────────────────────────────────────────────────────────────────────────────
 
 import { useState } from 'react';
